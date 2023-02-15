@@ -17,7 +17,6 @@
 - :white_check_mark: Знание форматов XML, JSON
 - :white_check_mark: Опыт работы в IntelliJ IDEA, Visual Studio
 
-
 **Мои проекты:**
 
 [Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
@@ -27,14 +26,13 @@
 - поиск багов, 
 - тестирование верстки, 
 - клиент-сервер
-Использовались: DevTools, Jira
 
+Использовались: DevTools, Jira
 
 **Сертификаты Нетологии:**
 
 - [Ручное тестирование веб-приложений](https://netology.ru/sharing/b14e342f8c911d5af75f9b57f6467ffe?utm_source=social&utm_campaign=achievements)
 - [Git](https://netology.ru/sharing/a545d6f10f0c547ec85e1675e9338f8a?utm_source=social)
-
 
 **Обо мне:**
 
