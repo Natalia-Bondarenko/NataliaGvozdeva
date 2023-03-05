@@ -1,6 +1,6 @@
 ## Добрый день!
 
-Я Наталья Гвоздева, QA инженер.  
+**Я Наталья Гвоздева, QA инженер.**  
 Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaGv](https://t.me/NataliaGv) :link: [linkedin.com/in/natallia-hvozdzeva/](https://www.linkedin.com/in/natallia-hvozdzeva/)
 
 ## Знаю и умею применять:
@@ -19,15 +19,15 @@
 
 ## Мои проекты:
 
-:white_check_mark: [Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:
+:white_check_mark: **[Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:**
 - [x] протестировала класс Player.java
 - [x] написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
 - [x] исправила дефекты в классе GameStore.java
 - [x] оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed)
 
-Использовались: IDEA, JAVA, Maven, JUnit, JaCoCo
+**Использовались: IDEA, JAVA, Maven, JUnit, JaCoCo**
 
-:white_check_mark: [Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
+:white_check_mark: **[Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:**
 - [x] Создание чек-листа, 
 - [x] набора тест-кейсов, 
 - [x] тестирование требований, 
@@ -35,7 +35,7 @@
 - [x] тестирование верстки, 
 - [x] клиент-сервер
 
-Использовались: DevTools, Jira
+**Использовались: DevTools, Jira**
 
 ## Сертификаты Нетологии:
 
