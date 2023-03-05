@@ -19,6 +19,12 @@
 
 **Мои проекты:**
 
+[Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:
+- протестировала класс Player.java
+- написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
+- исправила дефекты в классе GameStore.java
+- оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom)
+
 [Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
 - Создание чек-листа, 
 - набора тест-кейсов, 
