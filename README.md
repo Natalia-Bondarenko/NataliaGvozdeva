@@ -20,10 +20,10 @@
 ## Мои проекты:
 
 :white_check_mark: [Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:
-- протестировала класс Player.java
-- написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
-- исправила дефекты в классе GameStore.java
-- оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed)
+[x] протестировала класс Player.java
+[x] написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
+[x] исправила дефекты в классе GameStore.java
+[ ] оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed)
 
 :white_check_mark: [Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
 - Создание чек-листа, 
