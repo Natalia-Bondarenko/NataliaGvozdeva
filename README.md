@@ -44,22 +44,8 @@
 - [Git](https://netology.ru/sharing/a545d6f10f0c547ec85e1675e9338f8a?utm_source=social)
 
 ## Обо мне:
-
-Более 10 лет опыт работы в сфере IT - это помогает быстрее осваивать навыки тестирования.
-
-6 месяцев опыта работы Тестировщиком в стартап проекте.
-
-В 2022 году закончила курс "Ручное тестирование веб-приложений" (теория мануального тестирования, практика тест-дизайна, оформление баг-репортов, Git, Jira, Jmeter, Postman). В 2023 году изучаю курс "Java для тестировщиков" (основы JAVA, ООП, JUnit, JaCoCo, CI, Maven).
-
-9 лет опыта работы инженером-программистом с функциями тестировщика.
-
-Изучены основы Android SDK, языков JAVA, Kotlin, основы SQL, API, TCP/IP, XML, JSON, Git; опыт работы в Android Studio, IntelliJ IDEA, Visual Studio; опыт работы в Jira, Trac, GitHub; основы JAVA, ООП, JUnit, JaCoCo, CI, Maven.
-
-Знание английского B1(письменный) A2(устный), чтение технической документации.
-
-Умею работать в команде, прилагая максимум усилий для достижения общих целей.
-
-Помогу команде контролировать качество для усовершенствования продукта.
+![Infografica_My_way_Gvozdeva_portfolio01](https://user-images.githubusercontent.com/18085714/222981676-5217c492-64e4-4dcc-ba54-c8c6e1a40995.JPG)
+![Infografica_My_way_Gvozdeva_portfolio02](https://user-images.githubusercontent.com/18085714/222981681-fce3a03b-4677-4ee7-9202-00f02bede965.JPG)
 
 <!--
 **NataliaGvozdeva/NataliaGvozdeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
