@@ -3,7 +3,7 @@
 Я Наталья Гвоздева, QA инженер.  
 Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaGv](https://t.me/NataliaGv) :link: [linkedin.com/in/natallia-hvozdzeva/](https://www.linkedin.com/in/natallia-hvozdzeva/)
 
-**Знаю и умею применять:**
+## Знаю и умею применять:
 
 - :white_check_mark: Ручное тестирование, написание тест-кейсов, тест-дизайн
 - :white_check_mark: Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman, Jmeter
@@ -17,15 +17,15 @@
 - :white_check_mark: Знание форматов XML, JSON
 - :white_check_mark: Опыт работы в IntelliJ IDEA, Visual Studio
 
-**Мои проекты:**
+## Мои проекты:
 
-[Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:
+:white_check_mark: [Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:
 - протестировала класс Player.java
 - написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
 - исправила дефекты в классе GameStore.java
 - оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed)
 
-[Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
+:white_check_mark: [Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
 - Создание чек-листа, 
 - набора тест-кейсов, 
 - тестирование требований, 
@@ -35,12 +35,12 @@
 
 Использовались: DevTools, Jira
 
-**Сертификаты Нетологии:**
+## Сертификаты Нетологии:
 
 - [Ручное тестирование веб-приложений](https://netology.ru/sharing/b14e342f8c911d5af75f9b57f6467ffe?utm_source=social&utm_campaign=achievements)
 - [Git](https://netology.ru/sharing/a545d6f10f0c547ec85e1675e9338f8a?utm_source=social)
 
-**Обо мне:**
+## Обо мне:
 
 Более 10 лет опыт работы в сфере IT - это помогает быстрее осваивать навыки тестирования.
 
