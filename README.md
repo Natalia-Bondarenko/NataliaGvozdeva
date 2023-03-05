@@ -23,7 +23,7 @@
 - протестировала класс Player.java
 - написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
 - исправила дефекты в классе GameStore.java
-- оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom)
+- оформила баг-репорты в виде [Issue]([https://github.com/WOVASYA/javaqa-team-diplom](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed))
 
 [Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:
 - Создание чек-листа, 
