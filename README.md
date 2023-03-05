@@ -1,4 +1,4 @@
-**Добрый день!**
+## Добрый день!
 
 Я Наталья Гвоздева, QA инженер.  
 Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaGv](https://t.me/NataliaGv) :link: [linkedin.com/in/natallia-hvozdzeva/](https://www.linkedin.com/in/natallia-hvozdzeva/)
