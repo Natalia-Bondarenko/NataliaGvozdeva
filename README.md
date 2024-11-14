@@ -1,8 +1,8 @@
 **Добрый день!** 👋
 
-**Я Наталья Гвоздева, QA инженер: мануальный и автоматизатор**.
+**Я Наталья Гвоздева, Junior Java developer**.
 
-Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaGv](https://t.me/NataliaGv)  :link: [linkedin.com/in/natallia-hvozdzeva/](https://www.linkedin.com/in/natallia-hvozdzeva/)
+Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaBnd](https://t.me/NataliaBnd)  :link: [linkedin.com/in/natallia-hvozdzeva/](https://www.linkedin.com/in/natallia-hvozdzeva/)
 
 ## Знаю и умею применять:
 
