@@ -1,6 +1,6 @@
 **Добрый день!** 👋
 
-**Я Наталья Гвоздева, Junior Java developer**.
+**Я Наталья Бондаренко, Junior Java developer**.
 
 Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaBnd](https://t.me/NataliaBnd)  :link: [linkedin.com/in/natallia-hvozdzeva/](https://www.linkedin.com/in/natallia-hvozdzeva/)
 
@@ -48,7 +48,7 @@
 ![Infografica_My_way_Gvozdeva_portfolio02](https://user-images.githubusercontent.com/18085714/222981681-fce3a03b-4677-4ee7-9202-00f02bede965.JPG)
 
 <!--
-**NataliaGvozdeva/NataliaGvozdeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Natalia-Bondarenko/Natalia-Bondarenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
